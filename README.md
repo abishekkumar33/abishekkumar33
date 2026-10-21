@@ -100,8 +100,8 @@ Use only cards you understand and remove them if they stop working.
 ```
 ## 📫 Connect With Me
 
--   **LinkedIn:** \[[Your LinkedIn profile URL\](https://www.linkedin.com/in/r-abishekkumar/)]
--   **Email:** \[r.abishekkumar45@gmail.com]
+-   **LinkedIn:** (https://www.linkedin.com/in/r-abishekkumar/)
+-   **Email:** (r.abishekkumar45@gmail.com)
 -   **Portfolio:** \[Your portfolio URL, if available\]
 
 ------------------------------------------------------------------------
